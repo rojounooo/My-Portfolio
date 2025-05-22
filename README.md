@@ -11,7 +11,7 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Intrusion Detection Software (Suricata)       | <a href="https://github.com/rojounooo/Suricata">Using Suricata as an IDS</a> |
-| Python Scripting                              | <a href="https://github.com/rojounooo/Python-Scripts"> Basic scripts using Python</a> |
+| Security Scripts                              | <a href="https://github.com/rojounooo/Security-Scripts"> Security Scripts written in Python</a> |
 
 ## Tools
 
