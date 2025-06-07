@@ -6,12 +6,13 @@ I am a second-year student, studying cybersecurity.
 ## Objective
 Cybersecurity is a broad field, and currently, I have no idea where I want to specialize, so this portfolio is just to showcase skills in both offensive and defensive security.
 
-## Skills
+## Experience
 
-| Skill                                         | Associated Project         |
+| Focus Area                                    | Associated Repo            |
 |-----------------------------------------------|----------------------------|
-| Intrusion Detection Software (Suricata)       | <a href="https://github.com/rojounooo/Suricata">Using Suricata as an IDS</a> |
-| Security Scripts                              | <a href="https://github.com/rojounooo/Security-Scripts"> Security Scripts written in Python</a> |
+| Configuring an Intrusion Detection Software (Suricata)       | <a href="https://github.com/rojounooo/Suricata">Using Suricata as an IDS</a> |
+| Scripting                             | <a href="https://github.com/rojounooo/Security-Scripts"> Security Scripts written in multiple languages</a> |
+| TryHackme                              | <a href="https://github.com/rojounooo/TryHackMe-Walkthroughs"> Walkthroughs of TryHackMe CTFs</a> |
 
 ## Tools
 
