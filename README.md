@@ -31,13 +31,13 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 ![Exploit-DB](https://img.shields.io/badge/tool-Exploit--DB-orange)
 
 ### 🦠 Post-Exploitation
-*Add tools here when needed.*
+*Fill when possible*
 
 ### 🔓 Credential Access / Cracking
 ![John the Ripper](https://img.shields.io/badge/tool-John%20the%20Ripper-yellow)
 
 ### 🔁 Lateral Movement
-*Add tools here when needed.*
+*Fill when possible*
 
 ### 🧰 Common Utilities
 ![Netcat](https://img.shields.io/badge/tool-Netcat-blueviolet)
