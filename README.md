@@ -17,6 +17,7 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 | Scripting                             | <a href="https://github.com/rojounooo/Security-Scripts"> Security Scripts written in multiple languages</a> |
 | TryHackme CTF Walkthroughs            | <a href="https://github.com/rojounooo/TryHackMe-Walkthroughs"> Walkthroughs of TryHackMe CTFs</a> |
 | TryHackme Cybersecurity 101           | <a href="https://github.com/rojounooo/TryHackMe-CyberSecurity-101"> Documentation of my progress through the TryHackMe Cybersecurity 101 Path</a> |
+| System Hardening                      | <a href="https://github.com/rojounooo/linux-system-hardening"> Step By Step guide of securing minimal Ubuntu Server installation |
 
 ## Tools
 
@@ -45,8 +46,12 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 
 ## 🛡️ Defensive Security (DefSec)
 
+### 🛠️ Hardening
+![Lynis](https://img.shields.io/badge/tool-Lynis-green)
+
 ### 📊 Monitoring / Detection
 ![Suricata](https://img.shields.io/badge/tool-Suricata-blue)
+
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
