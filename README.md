@@ -42,6 +42,7 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 
 ### 🧰 Common Utilities
 ![Netcat](https://img.shields.io/badge/tool-Netcat-blueviolet)
+![SSH](https://img.shields.io/badge/tool-SSH-lightblue)
 
 
 ## 🛡️ Defensive Security (DefSec)
