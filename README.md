@@ -18,7 +18,7 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 | TryHackme CTF Walkthroughs            | <a href="https://github.com/rojounooo/TryHackMe-Walkthroughs"> Walkthroughs of TryHackMe CTFs</a> |
 | TryHackme Cybersecurity 101           | <a href="https://github.com/rojounooo/TryHackMe-CyberSecurity-101"> Documentation of my progress through the TryHackMe Cybersecurity 101 Path</a> |
 | System Hardening                      | <a href="https://github.com/rojounooo/linux-system-hardening"> Step By Step guide of securing minimal Ubuntu Server installation |
-| Web Security                          | <a href="https://github.com/rojounooo/metasploitable"> Documentation of testing the metasploitable VM |
+| Web Security                          | <a href="https://github.com/rojounooo/hacking-metasploitable"> Documentation of testing the metasploitable VM |
 
 ## Tools
 
