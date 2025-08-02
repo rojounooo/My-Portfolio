@@ -61,5 +61,5 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 
 
 ## Certifications
-To be filled in soon
+CompTIA Security+ - [Expected October 2025]
 
