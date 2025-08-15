@@ -61,5 +61,5 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 
 
 ## Certifications
-eJPT+ - [Expected December 2025]
+CompTIA Security+ - [Expected October 2025]
 
