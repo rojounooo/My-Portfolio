@@ -9,7 +9,7 @@ I am a third-year student, studying cybersecurity.
 ## Objective
 Cybersecurity is a broad field, and currently, I have no idea where I want to specialize, so this portfolio is just to showcase skills in both offensive and defensive security.
 
-## Experience
+## Skills
 
 | Focus Area                                    | Associated Repo            |
 |-----------------------------------------------|----------------------------|
