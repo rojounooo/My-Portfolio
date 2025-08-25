@@ -13,12 +13,14 @@ Cybersecurity is a broad field, and currently, I have no idea where I want to sp
 
 | Focus Area                                    | Associated Repo            |
 |-----------------------------------------------|----------------------------|
-| Configuring an Intrusion Detection Software (Suricata)       | <a href="https://github.com/rojounooo/Suricata">Using Suricata as an IDS</a> |
+| Threat Modelling                      | <a href="https://github.com/rojounooo/threat-modelling"> Threat modelling using STRIDE for a hypothetical To-do list web app |
+| System Hardening                      | <a href="https://github.com/rojounooo/linux-system-hardening"> Step By Step guide of securing minimal Ubuntu Server installation |
+| Configuring an Intrusion Detection Software (Suricata) | <a href="https://github.com/rojounooo/Suricata">Using Suricata as an IDS</a> |
 | Scripting                             | <a href="https://github.com/rojounooo/Security-Scripts"> Security Scripts written in multiple languages</a> |
 | TryHackme CTF Walkthroughs            | <a href="https://github.com/rojounooo/TryHackMe-Walkthroughs"> Walkthroughs of TryHackMe CTFs</a> |
 | TryHackme Cybersecurity 101           | <a href="https://github.com/rojounooo/TryHackMe-CyberSecurity-101"> Documentation of my progress through the TryHackMe Cybersecurity 101 Path</a> |
-| System Hardening                      | <a href="https://github.com/rojounooo/linux-system-hardening"> Step By Step guide of securing minimal Ubuntu Server installation |
 | Web Security                          | <a href="https://github.com/rojounooo/hacking-dvwa"> Documentation of testing the DVWA (Damn Vulnerable Web Application) |
+
 
 ## Tools
 
