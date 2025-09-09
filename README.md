@@ -7,7 +7,7 @@
 I am a third-year student, studying cybersecurity.
 
 ## Objective
-Cybersecurity is a broad field, and currently, I have no idea where I want to specialize, so this portfolio is just to showcase skills in both offensive and defensive security.
+Experience is crucial in cybersecurity, the aim of this portfolio is to showcase some of the fundamental security engineering skills. Including threat modelling, system hardening and deployment of security tools.
 
 ## Skills
 
