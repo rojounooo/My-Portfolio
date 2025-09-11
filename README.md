@@ -15,6 +15,7 @@ Experience is crucial in cybersecurity, the aim of this portfolio is to showcase
 |-----------------------------------------------|----------------------------|
 | Threat Modelling                      | <a href="https://github.com/rojounooo/threat-modelling"> Threat modelling using STRIDE for a hypothetical To-do list web app |
 | System Hardening                      | <a href="https://github.com/rojounooo/linux-system-hardening"> Step By Step guide of securing minimal Ubuntu Server installation |
+| Vulnerability Analysis                | <a href="https://github.com/rojounooo/vuln-analysis-metasploitable"> Vulnerability Analysis of the Metasploitable 2 VM |
 | Configuring an Intrusion Detection Software (Suricata) | <a href="https://github.com/rojounooo/Suricata">Using Suricata as an IDS</a> |
 | Scripting                             | <a href="https://github.com/rojounooo/Security-Scripts"> Security Scripts written in multiple languages</a> |
 | TryHackme CTF Walkthroughs            | <a href="https://github.com/rojounooo/TryHackMe-Walkthroughs"> Walkthroughs of TryHackMe CTFs</a> |
