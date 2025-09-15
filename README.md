@@ -41,6 +41,7 @@ Experience is crucial in cybersecurity, the aim of this portfolio is to showcase
 
 ### 🔓 Credential Access / Cracking
 ![John the Ripper](https://img.shields.io/badge/tool-John%20the%20Ripper-yellow)
+![Hydra](https://img.shields.io/badge/tool-Hydra-green)
 
 ### 🔁 Lateral Movement
 *Fill when possible*
