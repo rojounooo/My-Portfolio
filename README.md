@@ -55,8 +55,8 @@ Experience is crucial in cybersecurity, the aim of this portfolio is to showcase
 ![Lynis](https://img.shields.io/badge/tool-Lynis-green)
 
 ### 📊 Monitoring / Detection
+![Suricata](https://img.shields.io/badge/tool-Splunk-orange)
 ![Suricata](https://img.shields.io/badge/tool-Suricata-blue)
-
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
