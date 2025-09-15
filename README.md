@@ -30,6 +30,7 @@ Experience is crucial in cybersecurity, the aim of this portfolio is to showcase
 ### 🔍 Reconnaissance
 ![Gobuster](https://img.shields.io/badge/tool-Gobuster-lightgrey)
 ![Nmap](https://img.shields.io/badge/tool-Nmap-brightgreen)
+![enum4linux-ng](https://img.shields.io/badge/tool-Nmap-grey)
 
 ### 💥 Exploitation / Initial Access
 ![Metasploit](https://img.shields.io/badge/tool-Metasploit-red)
@@ -55,7 +56,7 @@ Experience is crucial in cybersecurity, the aim of this portfolio is to showcase
 ![Lynis](https://img.shields.io/badge/tool-Lynis-green)
 
 ### 📊 Monitoring / Detection
-![Suricata](https://img.shields.io/badge/tool-Splunk-orange)
+![Splunk](https://img.shields.io/badge/tool-Splunk-orange)
 ![Suricata](https://img.shields.io/badge/tool-Suricata-blue)
 
 ### 🧑‍💻 Languages
