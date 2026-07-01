@@ -42,9 +42,9 @@ I am currently developing hands-on projects in cloud infrastructure, endpoint ma
 
 ## Certifications
 
-- Microsoft Azure Fundamentals (AZ-900) – Scheduled June 2026
+- Microsoft Azure Fundamentals (AZ-900) – Completed - June 2026
 - Microsoft Azure Administrator (AZ-104) – In Progress
-- Hemmersbach Technician Academy – Scheduled June 2026
+- Hemmersbach Technician Academy – Completed - June 2026
 
 ---
 
