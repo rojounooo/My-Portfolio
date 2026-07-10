@@ -14,6 +14,7 @@ I am currently developing hands-on projects in cloud infrastructure, endpoint ma
 - Active Directory 
 - Microsoft Intune device management
 - Microsoft Entra ID (identity and access management)
+- Asset Management
 
 ### Cloud (Microsoft Azure)
 - Azure virtual machines (VMs)
@@ -40,6 +41,7 @@ I am currently developing hands-on projects in cloud infrastructure, endpoint ma
 | Security Scripts | Python scripting for automation of security tasks | In Progress | https://github.com/rojounooo/scripting |
 | Scripting Fundamentals | Bash, Python and PowerShell scripting for automation of common IT Support tasks | In Progress | https://github.com/rojounooo/security-scripts |
 | Server Hardening | Server Hardening lab for Linux and Windows | Planned | 
+| Asset Management | Snipe-IT asset management lab | Planned | 
 
 
 ---
