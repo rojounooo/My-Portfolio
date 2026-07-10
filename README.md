@@ -42,6 +42,7 @@ I am currently developing hands-on projects in cloud infrastructure, endpoint ma
 | Scripting Fundamentals | Bash, Python and PowerShell scripting for automation of common IT Support tasks | In Progress | https://github.com/rojounooo/security-scripts |
 | Server Hardening | Server Hardening lab for Linux and Windows | Planned | 
 | Asset Management | Snipe-IT asset management lab | Planned | 
+| Vulnerability Analysis | Vulnerability analysis of the Metasploitable VM | Complete | https://github.com/rojounooo/vuln-analysis-metasploitable |
 
 
 ---
