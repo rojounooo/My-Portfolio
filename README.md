@@ -34,11 +34,13 @@ I am currently developing hands-on projects in cloud infrastructure, endpoint ma
 
 | Project | Description | Status | Link |
 |--------|-------------|--------|------|
-| Intune Lab | Endpoint management lab covering device enrolment, policies, and application deployment | Complete| https://github.com/rojounooo/microsoft-intune-lab |
+| Intune Lab | Endpoint management lab covering device enrolment, policies, and application deployment | Complete | https://github.com/rojounooo/microsoft-intune-lab |
 | Azure NSG Lab | Azure networking lab focused on traffic control using NSGs | Complete | https://github.com/rojounooo/azure-nsg-lab |
-| IT Support Bootcamp with Ticketing Systems | Documentation of skills learnt from an IT Support Udemy course with simulated helpdesk ticketing workflow and incident handling process | In Progress | https://github.com/rojounooo/it-support-lab |
-| Scripting Fundamentals | Bash, Python and PowerShell scripting for automation of common IT Support tasks | In Progress | https://github.com/rojounooo/scripting |
+| IT Support Bootcamp with Ticketing Systems | Documentation of skills learnt from an IT Support Udemy course with simulated helpdesk ticketing workflow and incident handling process | Complete | https://github.com/rojounooo/it-support-lab |
+| Security Scripts | Python scripting for automation of security tasks | In Progress | https://github.com/rojounooo/scripting |
+| Scripting Fundamentals | Bash, Python and PowerShell scripting for automation of common IT Support tasks | In Progress | https://github.com/rojounooo/security-scripts |
 | Server Hardening | Server Hardening lab for Linux and Windows | Planned | 
+
 
 ---
 
